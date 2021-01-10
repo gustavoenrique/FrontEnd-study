@@ -4,7 +4,6 @@
 * Já o NULL você inicializou,  mas não está apontado para nenhum endereço 
 *de memória
 */
-
   
 let valor // não inicializada
 console.log(valor)

@@ -6,7 +6,7 @@ valores[4] = 10
 console.log(valores)
 console.log(valores.length)
 
-valores.push({id: 3}, false, null, 'teste') // ADD valores ao Array
+valores.push({id: 3}, false, null, 'teste') //ADD valores ao Array
 console.log(valores)
 
 console.log(valores.pop()) //Seleciona o valor do ultimo index  e depois exclui ele

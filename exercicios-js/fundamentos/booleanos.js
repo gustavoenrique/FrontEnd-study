@@ -36,5 +36,6 @@ console.log(!!('' || null || 0 || ' '))
 */
 let nome = 'Lucas'
 console.log(nome || 'Desconhecido')
+
 nome = ''
 console.log(nome || 'Desconhecido')
