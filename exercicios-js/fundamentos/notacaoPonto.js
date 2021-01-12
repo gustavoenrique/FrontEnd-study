@@ -1,0 +1,1 @@
+console.log(Math.cell(6.1))
